@@ -4,3 +4,9 @@ D:\Training\Wpf\DesignWPFBusApps3-Samples\Samples\Common.Library\obj\Debug\Commo
 D:\Training\Wpf\DesignWPFBusApps3-Samples\Samples\Common.Library\obj\Debug\Common.Library.csproj.CoreCompileInputs.cache
 D:\Training\Wpf\DesignWPFBusApps3-Samples\Samples\Common.Library\obj\Debug\Common.Library.dll
 D:\Training\Wpf\DesignWPFBusApps3-Samples\Samples\Common.Library\obj\Debug\Common.Library.pdb
+D:\Training\WPF\DesignWPFBusApps3-Samples\Common.Library\bin\Debug\Common.Library.dll
+D:\Training\WPF\DesignWPFBusApps3-Samples\Common.Library\bin\Debug\Common.Library.pdb
+D:\Training\WPF\DesignWPFBusApps3-Samples\Common.Library\obj\Debug\Common.Library.csproj.AssemblyReference.cache
+D:\Training\WPF\DesignWPFBusApps3-Samples\Common.Library\obj\Debug\Common.Library.csproj.CoreCompileInputs.cache
+D:\Training\WPF\DesignWPFBusApps3-Samples\Common.Library\obj\Debug\Common.Library.dll
+D:\Training\WPF\DesignWPFBusApps3-Samples\Common.Library\obj\Debug\Common.Library.pdb

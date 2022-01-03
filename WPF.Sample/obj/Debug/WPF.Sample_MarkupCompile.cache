@@ -4,16 +4,16 @@
 winexe
 C#
 .cs
-D:\Training\Wpf\DesignWPFBusApps3-Samples\Samples\WPF.Sample\obj\Debug\
+D:\Training\WPF\DesignWPFBusApps3-Samples\WPF.Sample\obj\Debug\
 WPF.Sample
 none
 false
 DEBUG;TRACE
-D:\Training\Wpf\DesignWPFBusApps3-Samples\Samples\WPF.Sample\App.xaml
+D:\Training\WPF\DesignWPFBusApps3-Samples\WPF.Sample\App.xaml
 6-672407889
 21512850072
 10-1009334941
-21-179497951
+21-191066082
 MainWindow.xaml;UserControls\LoginControl.xaml;UserControls\UserFeedbackControl.xaml;UserControls\UserMaintenanceControl.xaml;UserControls\UserMaintenanceDetailControl.xaml;UserControls\UserMaintenanceListControl.xaml;
 
 False

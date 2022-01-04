@@ -4,7 +4,7 @@
 library
 C#
 .cs
-D:\Training\Wpf\DesignWPFBusApps3-Samples\WPF.Common\obj\Debug\
+D:\Training\WPF\DesignWPFBusApps3-Samples\WPF.Common\obj\Debug\
 WPF.Common
 none
 false
@@ -12,8 +12,8 @@ DEBUG;TRACE
 
 11867566946
 
-41098336801
-141870754042
+3-1719726047
+141023473151
 Resources\StandardStyles.xaml;
 
 False

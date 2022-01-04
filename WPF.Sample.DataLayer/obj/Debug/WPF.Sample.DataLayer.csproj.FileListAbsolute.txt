@@ -12,3 +12,17 @@ D:\Training\Wpf\DesignWPFBusApps3-Samples\Samples\WPF.Sample.DataLayer\obj\Debug
 D:\Training\Wpf\DesignWPFBusApps3-Samples\Samples\WPF.Sample.DataLayer\obj\Debug\WPF.Sample.DataLayer.csproj.CopyComplete
 D:\Training\Wpf\DesignWPFBusApps3-Samples\Samples\WPF.Sample.DataLayer\obj\Debug\WPF.Sample.DataLayer.dll
 D:\Training\Wpf\DesignWPFBusApps3-Samples\Samples\WPF.Sample.DataLayer\obj\Debug\WPF.Sample.DataLayer.pdb
+D:\Training\WPF\DesignWPFBusApps3-Samples\WPF.Sample.DataLayer\bin\Debug\WPF.Sample.DataLayer.dll
+D:\Training\WPF\DesignWPFBusApps3-Samples\WPF.Sample.DataLayer\bin\Debug\WPF.Sample.DataLayer.pdb
+D:\Training\WPF\DesignWPFBusApps3-Samples\WPF.Sample.DataLayer\bin\Debug\Common.Library.dll
+D:\Training\WPF\DesignWPFBusApps3-Samples\WPF.Sample.DataLayer\bin\Debug\EntityFramework.dll
+D:\Training\WPF\DesignWPFBusApps3-Samples\WPF.Sample.DataLayer\bin\Debug\EntityFramework.SqlServer.dll
+D:\Training\WPF\DesignWPFBusApps3-Samples\WPF.Sample.DataLayer\bin\Debug\Common.Library.pdb
+D:\Training\WPF\DesignWPFBusApps3-Samples\WPF.Sample.DataLayer\bin\Debug\EntityFramework.xml
+D:\Training\WPF\DesignWPFBusApps3-Samples\WPF.Sample.DataLayer\bin\Debug\EntityFramework.SqlServer.xml
+D:\Training\WPF\DesignWPFBusApps3-Samples\WPF.Sample.DataLayer\obj\Debug\WPF.Sample.DataLayer.csproj.AssemblyReference.cache
+D:\Training\WPF\DesignWPFBusApps3-Samples\WPF.Sample.DataLayer\obj\Debug\WPF.Sample.DataLayer.g.resources
+D:\Training\WPF\DesignWPFBusApps3-Samples\WPF.Sample.DataLayer\obj\Debug\WPF.Sample.DataLayer.csproj.CoreCompileInputs.cache
+D:\Training\WPF\DesignWPFBusApps3-Samples\WPF.Sample.DataLayer\obj\Debug\WPF.Sample.DataLayer.csproj.CopyComplete
+D:\Training\WPF\DesignWPFBusApps3-Samples\WPF.Sample.DataLayer\obj\Debug\WPF.Sample.DataLayer.dll
+D:\Training\WPF\DesignWPFBusApps3-Samples\WPF.Sample.DataLayer\obj\Debug\WPF.Sample.DataLayer.pdb
